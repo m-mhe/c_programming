@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721015617 source:c:\users\momin\onedrive\documents\codex\c_programming\hello_world\main.c
+	<stdio.h>
+	<stdlib.h>
+
